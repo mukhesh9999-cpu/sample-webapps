@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "welcome to BEC" %></h2>
+<h2><%= "Natural Language processing" %></h2>
 </body>
 </html>
